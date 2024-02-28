@@ -1,4 +1,4 @@
-Learning programming, begginer  
+Learning programming, beginner  
 Aspiring to be a freelance coder  
 Python ✔✔📘   
 Javascript📚❌❌  
