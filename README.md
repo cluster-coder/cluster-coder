@@ -1,7 +1,8 @@
 🔧 A developer with a taste for automatizing tasks, building websites and testing some odd things  
 🔹 Slowly starting as a freelancer and expanding my skills  
 🔎 Ocasionally extracting information from the web through scraping  
-⚔📚 Developer of the [DPS Calculator](https://clustercoder.pythonanywhere.com/dpscalculator/)
+⚔📚 Developer of the [DPS Calculator](https://clustercoder.pythonanywhere.com/dpscalculator/)  
+💜 My beautiful [portfolio website](https://clustercoder.pythonanywhere.com)
 
 ## Languages
 ![Python logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
